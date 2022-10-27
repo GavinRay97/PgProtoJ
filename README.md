@@ -1,4 +1,4 @@
-# PgProtoKt - A framework for building Postgres Wire-Protocol backends on the JVM
+# PgProtoJ - A framework for building Postgres Wire-Protocol backends on the JVM
 
 This library takes care of the difficult work of managing binary serialization/de-serialization and networking
 protocols, so that you can focus on implementing business logic.
